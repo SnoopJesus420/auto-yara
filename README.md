@@ -6,7 +6,7 @@ Edit the following variables <br>
 ```powershell
 # Set the path to the YARA executable and the rules folder
 $yaraExePath = "C:\your-path\protections-artifacts\yara64.exe"
-$rulesFolderPath = "C:\-your-path\protections-artifacts\yara\rules"
+$rulesFolderPath = "C:\your-path\protections-artifacts\yara\rules"
 $exportPath = "YaraScanResults.csv"
 
 # Set the FilePath and ProcessID (these can be set to $null if you want to skip them)
