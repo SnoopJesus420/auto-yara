@@ -1,3 +1,5 @@
+# Written by SnoopJesus420 -> https://github.com/SnoopJesus420/
+
 # Set the path to the YARA executable and the rules folder
 $yaraExePath = "C:\your-path\protections-artifacts\yara64.exe"
 $rulesFolderPath = "C:\-your-path\protections-artifacts\yara\rules"
